@@ -6,3 +6,9 @@
 ```
 let mut x:i32 = 1;
 ```
+
+## Task list:
+
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
